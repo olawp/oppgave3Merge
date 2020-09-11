@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 merge conflict eksempel
-=======
-ay lmao
->>>>>>> mergeconf
+
